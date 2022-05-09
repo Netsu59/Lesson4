@@ -30,7 +30,6 @@ public class SQRServiceTest {
         int value = service.calculateSqrNumberInBorders(lower, upper);
 
         assertEquals(expected,value);
-
     }
 
 }
