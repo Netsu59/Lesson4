@@ -1,4 +1,4 @@
-package sqr.lesson4;
+package lesson4.sqr;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;

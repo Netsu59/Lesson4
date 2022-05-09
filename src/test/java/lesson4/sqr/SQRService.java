@@ -1,4 +1,4 @@
-package sqr.lesson4;
+package lesson4.sqr;
 
 public class SQRService {
 
